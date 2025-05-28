@@ -194,7 +194,7 @@ Capita is an AI-native financial platform designed to democratise FIRE planning 
 
 ## 📄 License
 
-**Copyright © 2024 Tiaan Wolmarans. All rights reserved.**
+**Copyright © 2025 Tiaan Wolmarans. All rights reserved.**
 
 This plan, software and all associated documentation are proprietary and confidential. Unauthorised copying, distribution, modification, or use is strictly prohibited and may result in severe civil and criminal penalties.
 
