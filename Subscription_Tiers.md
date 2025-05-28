@@ -21,7 +21,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 
 - **Financial Goal Tracking**
   - Up to 3 active financial goals
-  - Basic progress visualization
+  - Basic progress visualisation
   - Monthly goal review reminders
   - Simple milestone celebrations
 
@@ -49,7 +49,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
   - Access to weekly educational webinars
 
 #### Limitations
-- No bank account integration
+- 1 bank account integration
 - Limited AI interactions
 - Basic reporting only
 - No advanced planning tools
@@ -81,7 +81,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 
 - **Bank Integration & Automation**
   - Connect up to 5 bank accounts
-  - Automatic transaction categorization
+  - Automatic transaction categorisation
   - Real-time balance updates
   - Smart spending insights
   - Automated savings tracking
@@ -96,13 +96,13 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 #### Investment & Portfolio Tools
 - **Portfolio Analysis**
   - Investment account integration (up to 3 accounts)
-  - Asset allocation visualization
+  - Asset allocation visualisation
   - Performance tracking and benchmarking
   - Rebalancing recommendations
-  - Fee analysis and optimization
+  - Fee analysis and optimisation
 
 - **Tax Planning**
-  - ISA optimization strategies
+  - ISA optimisation strategies
   - Pension contribution planning
   - Capital gains tax planning
   - Tax-efficient withdrawal strategies
@@ -139,7 +139,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 
 ---
 
-### 3. Capita Pro (£24.99/month or £249/year)
+### 3. Capita Pro (£19.99/month or £199/year)
 
 **Target Audience:** High earners, complex financial situations, serious investors, those nearing FIRE
 
@@ -154,7 +154,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
   - Legacy and estate planning integration
 
 - **Professional-Grade Tools**
-  - Advanced tax optimization algorithms
+  - Advanced tax optimisation algorithms
   - Multi-generational wealth planning
   - Business owner financial planning
   - International tax considerations
@@ -164,7 +164,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 - **Unlimited AI Consultations**
   - 24/7 AI financial advisor access
   - Complex financial situation analysis
-  - Personalized investment research
+  - Personalised investment research
   - Market timing insights
   - Behavioural finance coaching
 
@@ -191,12 +191,6 @@ Capita offers a freemium model with three distinct subscription tiers designed t
   - Investment platform partnerships
 
 #### Premium Features
-- **White-Glove Service**
-  - Dedicated account manager
-  - Quarterly strategy review calls
-  - Custom financial plan creation
-  - Priority feature development
-  - Exclusive market insights
 
 - **Advanced Reporting Suite**
   - Professional-grade financial reports
@@ -226,15 +220,15 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 
 ### Professional Consultation Package (£99/session)
 - 60-minute video consultation with certified financial planner
-- Personalized FIRE strategy development
-- Tax optimization review
+- Personalised FIRE strategy development
+- Tax optimisation review
 - Investment portfolio analysis
 - Written follow-up recommendations
 
 ### Annual Financial Health Check (£199/year)
 - Comprehensive financial situation analysis
 - Goal progress assessment and adjustment
-- Tax strategy optimization
+- Tax strategy optimisation
 - Insurance and protection review
 - Written annual financial plan update
 
@@ -276,7 +270,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 
 ---
 
-## Enterprise Solutions
+## Enterprise Solutions - FUTURE
 
 ### Capita for Business (Custom Pricing)
 - White-label platform licensing
@@ -298,7 +292,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 
 ### Billing & Payment
 - **Payment Methods:** Credit/debit cards, PayPal, bank transfer
-- **Billing Cycles:** Monthly or annual (annual saves 17%)
+- **Billing Cycles:** Monthly or annual (annual saves)
 - **Currency:** GBP (UK market focus)
 - **Tax:** VAT included in all prices
 
@@ -309,7 +303,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 - **Refunds:** 30-day money-back guarantee
 
 ### Trial Periods
-- **Plus Trial:** 14-day free trial
+- **Plus Trial:** 7-day free trial
 - **Pro Trial:** 7-day free trial
 - **No Credit Card Required:** For trial activation
 - **Full Feature Access:** During trial period
@@ -320,7 +314,7 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 
 ### Value Proposition
 - **vs. Traditional Financial Advisors:** 90% cost savings, 24/7 access
-- **vs. Generic Budgeting Apps:** FIRE-specific features, UK tax optimization
+- **vs. Generic Budgeting Apps:** FIRE-specific features, UK tax optimisation
 - **vs. Investment Platforms:** Holistic planning, not just investing
 - **vs. DIY Spreadsheets:** Automated insights, professional guidance
 
@@ -368,6 +362,6 @@ Capita offers a freemium model with three distinct subscription tiers designed t
 - Enterprise solutions pilot
 
 ### Phase 4 (12 months post-launch)
-- International expansion preparation
+- International expansion CONSIDERATION
 - Advanced features rollout
 - Partnership program scaling
