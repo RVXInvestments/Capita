@@ -19,7 +19,7 @@
 
 **Week 2: Core Backend & AI Integration**
 - Develop essential API endpoints (user, financial data)
-- Implement basic Claude 4 integration for financial advice
+- Implement basic Claude 4 integration for financial insights
 - Create FIRE calculator backend logic
 - Set up basic financial data aggregation (Plaid/TrueLayer)
 - Implement basic security measures
@@ -36,7 +36,7 @@
 - Basic security audit and compliance check
 - Deploy to production environment
 - Create basic documentation and user guides
-- Soft launch with initial user testing
+- Review with Founders Factory team and prepare for soft launch
 
 ### Phase 2: Post-MVP Enhancement (Months 2-6)
 **Months 2-3: Feature Enhancement & Stability**
@@ -85,7 +85,7 @@
 - **Testing:** Jest, React Testing Library
 
 ### Mobile
-- **Framework:** React Native or Flutter
+- **Framework:** Next.js, React Native or Flutter (Most likely Next.js)
 - **State Management:** Redux/Provider pattern
 - **Navigation:** React Navigation/Navigator
 - **Push Notifications:** Firebase Cloud Messaging
@@ -101,7 +101,7 @@
 
 ### Phase 1: MVP Team (4 Weeks)
 - **Founder/Lead Developer**: Full-stack development, architecture, project management
-- **AI Development Assistant**: Claude 4 for code generation and problem-solving
+- **AI Development Assistant**: Claude 4 for problem-solving and testing
 - **Part-time Legal Advisor**: Basic compliance and legal setup (as needed)
 - **Beta Testers**: 5-10 target users for feedback
 
@@ -123,18 +123,16 @@
 
 ## Budget Estimation
 
-### Phase 1: MVP Development (4 weeks) - £15,000
+### Phase 1: MVP Development (4 weeks)
 - **Founder/Lead Developer**: £0 (sweat equity)
-- **AI Assistant Development**: £0 (using existing tools)
-- **AWS Infrastructure (MVP)**: £500
-- **Third-party APIs (basic tier)**: £1,000
-- **Development Tools & Licenses**: £2,000
-- **Legal Setup (basic)**: £3,000
-- **Domain, SSL, Basic Security**: £500
-- **MVP Testing & QA**: £2,000
-- **Emergency Buffer**: £6,000
+- **AI Assistant Development**: £600 (using existing tools)
+- **AWS Infrastructure (MVP)**: £200
+- **Third-party APIs (basic tier)**: TBD
+- **Development Tools & Licenses**: TBD
+- **Legal Setup (basic)**: N/A
+- **Domain, SSL, Basic Security**: Will use already owned domain in the interim
 
-### Phase 2: Post-MVP Development (Months 2-6) - £65,000
+### Phase 2: Post-MVP Development (Months 2-6) - £80,000
 - **Part-time Developer**: £25,000
 - **AWS Infrastructure (scaling)**: £8,000
 - **Enhanced APIs & Integrations**: £5,000
@@ -142,11 +140,12 @@
 - **Legal & Regulatory**: £8,000
 - **Marketing & User Acquisition**: £5,000
 - **Operations & Admin**: £4,000
+- Buffer: £15,000
 
 **TOTAL 6-MONTH BUDGET**: £80,000
 
 ### Fundraising Target (Month 6)
-- **Seed Round Target**: £500,000 - £1,000,000
+- **Seed Round Target**:  £1,000,000 - £1,500,000
 - **Use of Funds**: Team expansion, product development, market penetration
 
 ## Fundraising Strategy
@@ -157,24 +156,24 @@
 - **Financial Metrics**: Track key metrics (user acquisition cost, retention, engagement)
 - **Pitch Deck Creation**: Develop compelling investor presentation
 - **Financial Projections**: Create 3-year financial model and projections
+- **Network Building**: Leverage connections and warm introductions
 
 ### Fundraising Execution (Months 5-6)
 - **Investor Research**: Identify 50+ relevant seed investors (fintech focus)
 - **Network Building**: Leverage connections and warm introductions
 - **Demo Preparation**: Create compelling product demonstrations
 - **Due Diligence Prep**: Organise legal, financial, and technical documentation
-- **Term Sheet Negotiation**: Secure favorable terms for seed round
+- **Term Sheet Negotiation**: Secure favourable terms for seed round
 
 ### Target Investor Profile
 - **Fintech-focused VCs**: Investors with portfolio companies in financial services
 - **Angel Investors**: Former fintech founders and financial services executives
 - **Government Grants**: Innovate UK, SEIS/EIS schemes for tax-efficient investment
-- **Accelerators**: Fintech-specific programs (Techstars, Startupbootcamp)
 
-### Key Metrics for Fundraising
+### Key Metric Goals for Fundraising
 - **User Growth**: 20%+ month-over-month growth
 - **Engagement**: 60%+ monthly active users
-- **Revenue Potential**: Clear path to £1M+ ARR within 18 months
+- **Revenue Potential**: Clear path towards £1M+ ARR within 18 months
 - **Market Size**: £10B+ addressable market in UK financial planning
 - **Competitive Advantage**: AI-powered personalisation and FIRE focus
 
@@ -182,7 +181,6 @@
 - **Bootstrap Extension**: Reduce costs to extend runway if fundraising delayed
 - **Revenue Acceleration**: Implement premium features earlier if needed
 - **Strategic Partnerships**: Explore partnerships with financial institutions
-- **Alternative Funding**: Consider debt financing or revenue-based financing
 
 ## Risk Management
 
@@ -201,16 +199,15 @@
 ## Success Metrics
 
 ### Phase 1 (MVP)
-- 1,000+ registered users
-- 70%+ user retention after 30 days
+- Positive user interest and feedback
 - 95%+ uptime
 - Sub-2 second page load times
 
 ### Phase 2 (Growth)
-- 10,000+ active users
+- 1,000+ active users
 - 20%+ conversion to premium tiers
 - 4.5+ app store ratings
-- £100,000+ monthly recurring revenue
+- £10,000+ monthly recurring revenue
 
 ### Phase 3 (Scale)
 - 50,000+ active users
@@ -231,24 +228,3 @@
 - Multi-factor authentication
 - Regular security audits
 - Penetration testing
-- SOC 2 Type II certification
-
-## Launch Strategy
-
-### Pre-Launch (Month 5-6)
-- Beta testing with select users
-- Content marketing and SEO
-- Social media presence building
-- Partnership discussions
-
-### Launch (Month 6)
-- Product Hunt launch
-- Press release and media outreach
-- Influencer partnerships
-- Referral program launch
-
-### Post-Launch (Month 7+)
-- User feedback collection and iteration
-- Feature expansion based on user needs
-- Market expansion planning
-- Fundraising for growth phase
