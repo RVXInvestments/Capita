@@ -17,7 +17,7 @@
 5. Build a community-driven platform for financial independence enthusiasts
 
 ### Success Criteria
-- 10,000+ registered users within 12 months of launch
+- 10,000+ registered users within 18 months of launch
 - 70%+ user retention rate after 3 months
 - 25%+ conversion rate from free to premium subscriptions
 - FCA compliance certification
@@ -216,25 +216,9 @@
 
 ## Constraints
 
-### Technical Constraints
-1. **Budget Limitations**
-   - Development budget: £500,000 for MVP
-   - Infrastructure costs: £10,000/month initially
-   - Third-party API costs: £5,000/month
-
-2. **Timeline Constraints**
-   - MVP delivery: 6-9 months
-   - Full platform: 18 months
-   - Regulatory approval: 3-6 months
-
-3. **Resource Constraints**
-   - Development team: 8-12 people
-   - Limited AI/ML expertise initially
-   - Regulatory compliance expertise required
-
 ### Regulatory Constraints
 1. **FCA Requirements**
-   - Cannot provide regulated investment advice without authorization
+   - Cannot provide regulated investment advice without authorisation
    - Must clearly distinguish between information and advice
    - Requires comprehensive audit trails
 
@@ -247,7 +231,7 @@
 1. **Competition**
    - Established players in financial planning
    - Large tech companies entering the market
-   - Traditional financial institutions digitizing
+   - Traditional financial institutions digitising
 
 2. **User Acquisition**
    - High customer acquisition costs
@@ -300,14 +284,3 @@
 - Error rates and resolution times
 - Security incident frequency
 - Performance benchmarks
-
-## Approval and Sign-off
-
-**Project Sponsor:** Founders Factory  
-**Product Owner:** CEO/Founder (TBD)  
-**Technical Lead:** CTO (TBD)  
-**Compliance Officer:** Legal/Compliance Lead (TBD)  
-
-**Document Version:** 1.0  
-**Last Updated:** [Current Date]  
-**Next Review:** [30 days from creation]
