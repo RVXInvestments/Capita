@@ -20,10 +20,10 @@
 
 ## 📖 Project Overview
 
-Capita is an AI-native financial platform designed to democratize FIRE planning for UK residents. Built with an aggressive 4-week MVP timeline and £80k bootstrap budget, the platform leverages Claude 4's advanced AI capabilities to provide personalized financial guidance that traditionally costs £150-300/hour from financial advisors.
+Capita is an AI-native financial platform designed to democratise FIRE planning for UK residents. Built with an aggressive 4-week MVP timeline and £80k bootstrap budget, the platform leverages Claude 4's advanced AI capabilities to provide personalised financial guidance that traditionally costs £150-300/hour from financial advisors.
 
 ### 🎯 Key Value Propositions
-- **AI-Powered Advice**: 24/7 personalised financial guidance using Claude 4
+- **AI-Powered Advice**: 24/7 personalised financial guidance using a modified and fine tuned version of Claude 4
 - **UK-Specific Focus**: Deep integration with UK tax laws, pensions, and regulations
 - **Community-Driven**: Social features fostering peer learning and support
 - **Affordable Access**: Subscription model starting at £9.99/month vs. £150+/hour advisors
@@ -33,7 +33,7 @@ Capita is an AI-native financial platform designed to democratize FIRE planning 
 - **Target Market**: UK residents aged 25-45 interested in financial independence
 - **Market Size**: 13.2M UK millennials with growing interest in FIRE movement
 - **Revenue Model**: Freemium subscriptions (Free, Plus £9.99/month, Pro £19.99/month)
-- **Funding Strategy**: £80k bootstrap → £500k-£1M seed round at month 6
+- **Funding Strategy**: £80k bootstrap → £1M - £1.5M seed round at month 6
 
 ---
 
@@ -59,7 +59,7 @@ Capita is an AI-native financial platform designed to democratize FIRE planning 
 - Quality assurance standards
 
 #### 3. [💰 Subscription Tiers](./Subscription_Tiers.md)
-**Comprehensive monetization strategy**
+**Comprehensive monetisation strategy**
 - Three-tier freemium model (Free, Plus, Pro)
 - Feature comparison and pricing rationale
 - Revenue projections and conversion targets
@@ -161,13 +161,12 @@ Capita is an AI-native financial platform designed to democratize FIRE planning 
 - **FCA Compliance**: Financial Conduct Authority guidelines adherence
 - **GDPR Compliance**: Data protection and privacy by design
 - **Open Banking**: Secure integration with UK banking APIs
-- **PCI DSS**: Payment card industry security standards
 
 ### Security Measures
 - **End-to-End Encryption**: All sensitive data encrypted in transit and at rest
 - **Multi-Factor Authentication**: Enhanced account security
 - **Regular Security Audits**: Quarterly penetration testing
-- **Data Minimization**: Collect only necessary user information
+- **Data Minimisation**: Collect only necessary user information
 
 ---
 
@@ -193,27 +192,14 @@ Capita is an AI-native financial platform designed to democratize FIRE planning 
 
 ---
 
-## 📞 Contact Information
-
-**Project Lead**: Tiaan Wolmarans  
-**Copyright Holder**: Tiaan Wolmarans  
-
-For licensing inquiries or business partnerships, please contact the project lead.
-
----
-
 ## 📄 License
 
 **Copyright © 2024 Tiaan Wolmarans. All rights reserved.**
 
-This software and all associated documentation are proprietary and confidential. Unauthorised copying, distribution, modification, or use is strictly prohibited and may result in severe civil and criminal penalties.
+This plan, software and all associated documentation are proprietary and confidential. Unauthorised copying, distribution, modification, or use is strictly prohibited and may result in severe civil and criminal penalties.
 
 See the [LICENSE](./LICENSE) file for complete terms and conditions.
 
 **NOTICE**: This is proprietary software protected by copyright law.
 
 ---
-
-*Last Updated: [Current Date]*  
-*Version: 1.0*  
-*Status: Seeking Investment & Development Partners*
